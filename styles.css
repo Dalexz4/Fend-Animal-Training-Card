@@ -1,0 +1,36 @@
+/* add your CSS here */
+img{
+	width: 300px;
+
+}
+.cat-box{
+	width: 300px;
+	padding:8px;
+	border: 1px solid #aab4b7;
+	box-shadow: 5px 5px 5px 0px rgb(0, 0, 0, 0.5);
+} 
+#fact{
+	margin-left: 10px;
+	margin: 0;
+}
+#items{
+	font-weight: light;
+	list-style: none;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	padding: 8px;
+	margin: 0;
+}
+.contents{
+		border: 1px solid #aab4b7;
+		padding: 8px;
+		
+}
+
+.label{
+Font-weight: bold;
+}
